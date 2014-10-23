@@ -1,6 +1,6 @@
 package controllersProxy.web;
 
-public class GetStatistics extends ControllerProxyWebAbstract{
+public class ControllerProxyWebGetStatistics extends ControllerProxyWebAbstract{
 
 	@Override
 	public String proccess() {
